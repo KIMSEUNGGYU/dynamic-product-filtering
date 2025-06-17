@@ -1,7 +1,4 @@
-import './App.css';
-
-function App() {
+export default function App() {
   return <>2회차 구현과제</>;
 }
 
-export default App;
