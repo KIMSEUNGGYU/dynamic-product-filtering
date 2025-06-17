@@ -1,4 +1,3 @@
 export default function App() {
-  return <>2회차 구현과제</>;
+  return <div>2회차 구현과제</div>;
 }
-
